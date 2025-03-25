@@ -13,6 +13,6 @@ Néhány egyszerű lépéssel minden megoldható (különösen, ha biztosítva v
 4. lépés: A menüben a "Letöltés" választásakor a Google Dokumentumok számos formátumot kínál, célszerűségből PDF formátumban töltsd le a PC-re vagy Telefonra az iratot. (Ugyanolyan néven találod majd az eszközön, ahogy a Google Dokumentumokban elnevezted, ha nem adtál nevet, "Névtelen.pdf" lesz a neve, és a Te beállításod szerinti könyvtárban találod az eszközön, ami alapértelmezés szerint a "Letöltések" könyvtár.
 5. lépés: Az így aláírt pdf fájlt tetszőleges helyre (email címre) küldheted el, vagy töltheted fel; teljesen azonos kinézetű lesz, mintha egy valódi papíralapú iratot írtál volna alá, és fotóztál vagy szkenneltél volna be, ugyanakkor jóval kevesebb munka van vele!. Az első lépést természetesen NEM kell megismételni, ha az "aláírásképed" megtartod az eszközödön. 
 Lépések képekben:
-[ide kattintva](https://drive.google.com/file/d/1e3B4X5SV3N_juV40mtp9u8GzASBtJ0JK/view?usp=drive_link)](https://drive.google.com/file/d/1e3B4X5SV3N_juV40mtp9u8GzASBtJ0JK/view?usp=drive_link)
+[ide kattintva](https://drive.google.com/file/d/1e3B4X5SV3N_juV40mtp9u8GzASBtJ0JK/view?usp=drive_link)]
 
 ☝️A Google Dokumentumok és Google Drive helyett szinte azonos módon működik a fenti eljárás a Microsoft Onedrive-on a Microsoft Word online változatával is (Microsoft fiók és tárhely itt regisztrálható: https://signup.live.com) 
