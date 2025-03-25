@@ -6,7 +6,7 @@ Előfordul, hogy hivatalos, vagy nem hivatalos ügyben továbbra is ragaszkodik 
 
 Néhány egyszerű lépéssel minden megoldható (különösen, ha biztosítva van valamilyen formanyomtatvány).
 
-1. lépés: egy fehér lapon kék tollal helyezd el az aláírásod, amit úgy gondolsz, hivatalos ügyekben szoktál használni. Fotózd le <sup>(ez 1x kell, aztán soha többé 😁)</sup>, fotószerkesztő programmal vágd körül és mentsd el a PC-den (pl.: ![{335739E3-288A-43F5-8B6A-DE05C8EBC1A8}](https://github.com/user-attachments/assets/88651d9a-7948-4379-b21a-1801cb51c2d6) )
+1. lépés: egy fehér lapon kék tollal helyezd el az aláírásod, amit úgy gondolsz, hivatalos ügyekben szoktál használni. Fotózd le <sup>(ez 1x kell, aztán soha többé 😁)</sup>, fotószerkesztő programmal vágd körül és mentsd el a PC-den (pl.: ![{0784B522-4A1F-4AFD-B5C9-D81D70E68E9C}](https://github.com/user-attachments/assets/a4e66f93-aab8-42f9-8a70-8ea3d31329f5) )
 , telefonodon, pl. <code>SajátAláírásképem.png</code>fájlnéven (későbbi használatra célszerű menteni a Google Drive tárhelyen is).
 2. lépés: nyisd meg a böngészőn a Google Dokumentumok programot (https://docs.google.com ,ha Google Androidod és/vagy Gmail email fiókod van akkor 100%-ra van ilyened is!), töltsd fel a Google Dokumentumok közé az aláírandó iratot (pl. formanyomtatványt), vagy írd meg magad ott
 3. lépés: Az iratban (Szerkesztő módban!) az "aláírás" helyére a Dokumentumok program menüjéből a "Beszúrás - Kép" paranccsal emeld be az aláírásodat, amit az 1. pont szerint mentettél. Rákattintva méretezheted is.
