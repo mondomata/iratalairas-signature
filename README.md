@@ -15,4 +15,4 @@ Néhány egyszerű lépéssel minden megoldható (különösen, ha biztosítva v
 Lépések képekben:
 [ide kattintva🖱️](https://drive.google.com/file/d/1e3B4X5SV3N_juV40mtp9u8GzASBtJ0JK/view?usp=drive_link)]
 
-☝️A Google Dokumentumok és Google Drive helyett szinte azonos módon működik a fenti eljárás a Microsoft Onedrive-on a Microsoft Word online változatával is (Microsoft fiók és tárhely itt regisztrálható: https://signup.live.com) 
+☝️A Google Dokumentumok és Google Drive helyett szinte azonos módon működik a fenti eljárás a Microsoft Onedrive-on a Microsoft Word online változatával is (Microsoft fiók és tárhely 5 GB ingyen itt regisztrálható: https://signup.live.com) 
